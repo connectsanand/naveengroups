@@ -49,6 +49,7 @@
       navbarToggler.classList.toggle("navbarTogglerActive");
       navbarCollapse.classList.toggle("hidden");
       navbarCollapse.classList.toggle("invisible");
+      navbarCollapse.classList.toggle("opacity-0");
     });
   }
 
